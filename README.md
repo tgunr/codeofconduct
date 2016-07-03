@@ -1,4 +1,4 @@
-# Welcome to the MacAdmins Slack Team.
+# Welcome to the Slack Team.
 
 ## Introduction
 This community is a complement to the Freenode IRC channels, the various MDM and package management user forums, the Facebook groups, and the mailing lists and seeks to provide a safe, friendly community for Mac administrators, enthusiasts, and developers to interact with one another.
@@ -7,7 +7,7 @@ We hope that you find the community to be enriching to your personal and profess
 
 Thank you for following this code of conduct. We reserve the right to amend or change the code of conduct at any time and encourage you to periodically review these guidelines to ensure a safe environment for all.
 
--MacAdmins Slack Administrative Team
+- Slack Administrative Team
 
 ---
 
