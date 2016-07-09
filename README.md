@@ -1,19 +1,19 @@
-# Welcome to the Slack Team.
+# Welcome to the Factor Slack Team.
 
 ## Introduction
-This community is a complement to the Freenode IRC channels, the various MDM and package management user forums, the Facebook groups, and the mailing lists and seeks to provide a safe, friendly community for Mac administrators, enthusiasts, and developers to interact with one another.
+This community is a complement to the Freenode IRC channels, the various MDM and package management user forums, the Facebook groups, and the mailing lists and seeks to provide a safe, friendly community for Factor administrators, enthusiasts, and developers to interact with one another.
 
 We hope that you find the community to be enriching to your personal and professional lives, and above all else a place of camaraderie where our collective knowledge and differences are celebrated in a positive, welcoming environment.
 
 Thank you for following this code of conduct. We reserve the right to amend or change the code of conduct at any time and encourage you to periodically review these guidelines to ensure a safe environment for all.
 
-- Slack Administrative Team
+- Factor Administrative Team
 
 ---
 
 ## Code Of Conduct
 
-All are welcome to participate in the Slack team as long as the tenets of this Code of Conduct are adhered to.
+All are welcome to participate in the Factor Slack team as long as the tenets of this Code of Conduct are adhered to.
 
 ## Short Version:
 
@@ -27,17 +27,17 @@ All community members are expected to:
 
 Everyone is welcome to participate, and no judgement will be made on members of the greater Mac community who are not a part of the community.
 
-For further information, you are invited to take a look at the documents on the MacAdmins.org GitHub page, they include contact information for administrators, dispute resolution steps and an etiquette guide. This GitHub page is also open to any pull requests and suggestions for change.
+For further information, you are invited to take a look at the documents on the Factorcode.org GitHub page, they include contact information for administrators, dispute resolution steps and an etiquette guide. This GitHub page is also open to any pull requests and suggestions for change.
 
 ## Long Version:
 
 
 ### Policies
 
-The MacAdmins Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
+The Factor Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
 
 
-We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the MacAdmins Slack at the discretion of the Administrative Team.
+We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the Factor Slack at the discretion of the Factor Administrative Team.
 
 Harassment includes, but is not limited to:
 
